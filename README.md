@@ -7,7 +7,7 @@ URP14で動くように作ったVolumetricLightScattering
 スクリプトを全部Untiyに入れる
 
 # 動作確認済みバージョン
-Unity 2022.3.2f1
+Unity 2022.3.2f1<br>
 URP14
 
 # 使い方
